@@ -1,2 +1,2 @@
-# wzx_Image_crawler
+# wzx_image_crawler
 Image crawler based on Python
